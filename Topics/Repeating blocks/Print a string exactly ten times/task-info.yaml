@@ -1,0 +1,35 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4647#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 2. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    I will not use copy-paste!
+    Correct output:
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+    I will not use copy-paste!
+
+    Your code output:
+    Hyperskill
+  time: "Wed, 14 Dec 2022 19:52:08 UTC"
+record: -1
